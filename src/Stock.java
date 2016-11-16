@@ -9,9 +9,9 @@ public class Stock {
 			
 			
 							
-					int shares = 908;
+					int shares = 25;
 							
-					double avg = .8089;
+					double avg = 4;
 		
 					System.out.println("What is the stock selling for at this time?");
 		
