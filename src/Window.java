@@ -58,7 +58,7 @@ public class Window extends Stock {
 	 */
 	private void initialize() {
 		frmAmrs = new JFrame();
-		frmAmrs.setTitle("AMRS ");
+		frmAmrs.setTitle("T$'s Stock Calculator");
 		frmAmrs.setBounds(100, 100, 245, 277);
 		frmAmrs.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		frmAmrs.getContentPane().setLayout(null);
